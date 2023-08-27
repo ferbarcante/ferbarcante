@@ -9,7 +9,7 @@ public void String Fernanda {
  String acknowledgements = "Dev Back-end"
 
  String primarySkillset = "Linux, UX/UI Design, UML, English (b2)"
- String languages = "Java, Python, SQL, HTML, CSS"
+ String languages = "Java, Python, JavaScript, HTML, CSS"
 
 }
 ```
