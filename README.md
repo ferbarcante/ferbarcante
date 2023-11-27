@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Hey+I'm+Maria+Fernanda;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ```java
-public class Fernanda {
+public class Fernanda() {
  String name = "Maria Fernanda Barçante"
- String acknowledgements = "Dev Back-end"
+ String role = "Dev Back-end & DevOps"
 
- String primarySkillset = "Linux, UX/UI Design, UML, English (b2)"
- String languages = "Java, Python, JavaScript, HTML, CSS"
+ String skillset = "Linux, Docker, Kubernetes, English (b2)"
+ String languages = "Java, JavaScript, HTML, CSS"
 
 }
 ```
