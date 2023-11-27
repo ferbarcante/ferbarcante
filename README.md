@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Hey+I'm+Maria+Fernanda;I'm+19+years+old;I'm+from+Brazil;I'm+Graduating+in+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -35,14 +34,14 @@ public class Fernanda() {
 ![image](https://img.shields.io/badge/HTML5-04080f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-04080f?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-04080f?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Ubuntu-04080f?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 ## Studying in this moment:
 
-![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-04080f?style=for-the-badge&logo=Vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-04080f?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-04080f?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e5c76&height=120&section=footer"/>
 
