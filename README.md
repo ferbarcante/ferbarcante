@@ -35,12 +35,11 @@ public class Fernanda() {
 ![image](https://img.shields.io/badge/HTML5-04080f?style=for-the-badge&logo=html5&logoColor=f0ebd8)
 ![CSS3](https://img.shields.io/badge/CSS3-04080f?style=for-the-badge&logo=css3&logoColor=f0ebd8)
 ![image](https://img.shields.io/badge/GIT-04080f?style=for-the-badge&logo=git&logoColor=f0ebd8)
-
+![Docker](https://img.shields.io/badge/Docker-04080f?style=for-the-badge&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-04080f?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 ## Currently studying:
 
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-04080f?style=for-the-badge&logo=Vagrant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-04080f?style=for-the-badge&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-04080f?style=for-the-badge&logo=Kubernetes&logoColor=white)
