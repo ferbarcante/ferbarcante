@@ -8,7 +8,7 @@ public class Fernanda() {
  String role = "Dev Back-end & DevOps"
 
  String skillset = "Linux, Docker, Kubernetes, English (b2)"
- String languages = "Java, JavaScript, HTML, CSS"
+ String languages = "Java, Go, JavaScript, HTML, CSS"
 
 }
 ```
