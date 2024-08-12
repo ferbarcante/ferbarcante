@@ -5,7 +5,7 @@
 ```java
 public class Fernanda() {
  String name = "Maria Fernanda Barçante"
- String role = "Dev Back-end & DevOps"
+ String role = "Dev Back-end & Data Analyst"
 
  String skillset = "SpringBoot, Linux, Docker, Kubernetes, English (b2)"
  String languages = "Java, Go, JavaScript, HTML, CSS"
