@@ -41,5 +41,4 @@ public class Fernanda() {
 ## Currently studying:
 
 ![Spring](https://img.shields.io/badge/Spring-04080f?style=for-the-badge&logo=spring&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-04080f?style=for-the-badge&logo=Vagrant&logoColor=white)
+
