@@ -29,7 +29,6 @@
   
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
-  - **[YouTube Channel](https://www.youtube.com/@danielhbrito)**: Programming tutorials for beginners
 
 ---
 
