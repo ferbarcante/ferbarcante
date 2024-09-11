@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Hey+I'm+Maria+Fernanda;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+in+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### 📌 Briefly:
+### ꒰ ꪆ୧  Briefly:
 
 - I'm a ***Software Engineering*** student
 
 ---
 
-### 🛠️ Currently working with:
+### ꪆ୧  Currently working with:
 
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** [Java](https://github.com/ferbarcante/meu-aprendizado-java), Spring Framework, Kotlin, Python, PostgreSQL
@@ -19,33 +19,33 @@
 
 ---
 
-### 🎯 Studies:
+### ꪆ୧  Studies:
 
 - Focusing on [kotlin](https://github.com/ferbarcante/aprendendo-kotlin) and [shell script](https://github.com/ferbarcante/shell-script)
 
 ---
 
-### 🚀 Main projects:
+### ꪆ୧  Main projects:
   
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
 
 ---
 
-### 👍 Other interests:
+### ꪆ୧  Other interests:
 
-Art, Language learning, Philosophy, Literature, History, Mathematics, [Competitive Programming](https://github.com/ferbarcante/competitive-programming), Running, Calisthenics, Social Activism
+Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competitive Programming](https://github.com/ferbarcante/competitive-programming), Running, Calisthenics, Social Activism
 
 ---
 
-### :heavy_plus_sign: More information:
+### ꪆ୧ More information:
 
 - **[Website](https://ferbarcante.github.io/)**
 - **[Résumé](https://drive.google.com/file/d/1pik5iCqOGaza5aGD0vHmhAo1TvgHYHPR/view?usp=sharing)**
 
 ---
 
-### 👥 Social networks:
+### ꪆ୧  Social networks:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-pereira-bar%C3%A7ante-7b7726216/)
 [![BlueSk](https://img.shields.io/static/v1?label=&message=Bluesky%20&color=1DA1F2&logo=Bluesky&style=flat-square&logoColor=white)](https://bsky.app/profile/fefejava.bsky.social)
@@ -53,7 +53,7 @@ Art, Language learning, Philosophy, Literature, History, Mathematics, [Competiti
 
 ---
 
-### 📊 Activity
+### ꪆ୧  Activity
 
 
 <div align="center">  
