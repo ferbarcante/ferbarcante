@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Hey+I'm+Maria+Fernanda;I'm+20+years+old;I'm+from+Brazil;I'm+Graduating+in+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-### ꒰ ꪆ୧  Briefly:
+### ꪆ୧   Briefly:
 
-- I'm a ***Software Engineering*** student
+- I'm a ***Software Engineering*** student ♡
 
 ---
 
@@ -53,7 +53,7 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 
 ---
 
-### ꪆ୧  Activity
+### ✶  Activity  ✶
 
 
 <div align="center">  
