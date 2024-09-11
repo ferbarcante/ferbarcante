@@ -11,9 +11,9 @@
 ### 🛠️ Currently working with:
 
 - **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Spring Framework, Kotlin, Python, PostgreSQL
+- **Back-end:** [Java](https://github.com/ferbarcante/meu-aprendizado-java), Spring Framework, Kotlin, Python, PostgreSQL
 - **Testing:** JUnit
-- **DevOps:** Git, GitHub, Docker
+- **DevOps:** [Git](https://github.com/ferbarcante/mini-curso-git-github), GitHub, Docker
 - **Tools**: VS Code, IntelliJ IDEA, Vim, Postman, Bash
 - **Subjects:** Shell Script, Data Structure, Design Patterns, DevOps
 
