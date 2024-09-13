@@ -50,7 +50,7 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 ### ꪆ୧  Social networks:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-pereira-bar%C3%A7ante-7b7726216/)
-[![BlueSk](https://img.shields.io/static/v1?label=&message=Bluesky%20&color=1DA1F2&logo=Bluesky&style=flat-square&logoColor=white)](https://bsky.app/profile/fefejava.bsky.social)
+
 
 
 ---
