@@ -29,7 +29,9 @@
   
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
-
+- Code:
+  - **[ASCII converter](https://github.com/ferbarcante/ASCII-converter)**: A png to ASCII converter in Python
+    
 ---
 
 ### ꪆ୧  Other interests:
