@@ -21,7 +21,7 @@
 
 ### ꪆ୧  Studies:
 
-- Focusing on [kotlin](https://github.com/ferbarcante/aprendendo-kotlin) and [shell script](https://github.com/ferbarcante/shell-script)
+- Focusing on [kotlin](https://github.com/ferbarcante/aprendendo-kotlin) and [javascript](https://github.com/ferbarcante/aprendendo-js)
 
 ---
 
