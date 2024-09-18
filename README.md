@@ -43,7 +43,7 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 ### ꪆ୧ More information:
 
 - **[Website](https://ferbarcante.github.io/)**
-- **[Résumé](https://drive.google.com/file/d/1pik5iCqOGaza5aGD0vHmhAo1TvgHYHPR/view?usp=sharing)**
+- **[Résumé](https://drive.google.com/drive/folders/1vtqwmFG1ypDE23cFB4lpDTECLn1v3Edt?hl=pt-BR)**
 
 ---
 
