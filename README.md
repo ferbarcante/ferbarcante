@@ -51,7 +51,8 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-pereira-bar%C3%A7ante-7b7726216/)
 
-
+### ꪆ୧  Reading: 
+![61ztlXgCmpL _AC_UF1000,1000_QL80_(1)](https://github.com/user-attachments/assets/8f6e7d68-db5d-4fb1-80d3-0ac6663cd816)
 
 ---
 
