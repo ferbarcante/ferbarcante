@@ -15,7 +15,7 @@
 - **Testing:** JUnit
 - **DevOps:** [Git](https://github.com/ferbarcante/mini-curso-git-github), GitHub, Docker
 - **Tools**: VS Code, IntelliJ IDEA, Vim, Postman, Bash
-- **Subjects:** Data Analisys, Data Structure, Design Patterns, DevOps
+- **Subjects:** [Data Analisys](https://github.com/ferbarcante/learning-pandas), Data Structure, Design Patterns, DevOps
 
 ---
 
