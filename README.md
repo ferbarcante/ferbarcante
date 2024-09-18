@@ -47,10 +47,6 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 
 ---
 
-### ꪆ୧  Social networks:
-
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-pereira-bar%C3%A7ante-7b7726216/)
-
 ### ꪆ୧  Reading: 
 ![61ztlXgCmpL _AC_UF1000,1000_QL80_(1)](https://github.com/user-attachments/assets/8f6e7d68-db5d-4fb1-80d3-0ac6663cd816)
 
@@ -58,8 +54,12 @@ Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competi
 
 ### ✶  Activity  ✶
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ferbarcante&show_icons=true&count_private=true&hide_border=true&title_color=f0ebd8&icon_color=3e5c76&text_color=f0ebd8&bg_color=0d1117" alt="Fernanda github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbarcante&layout=compact&hide_border=true&title_color=f0ebd8&text_color=f0ebd8&bg_color=0d1117" />
 </div>
+
+--- 
+### ꪆ୧  Social networks:
+
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn%20&color=2867B2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-pereira-bar%C3%A7ante-7b7726216/)
