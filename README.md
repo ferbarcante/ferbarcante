@@ -30,7 +30,7 @@
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
 - Code:
-  - **[ASCII converter](https://github.com/ferbarcante/ASCII-converter)**: A png to ASCII converter in Python
+  - **[Task Manager](https://github.com/ferbarcante/crud-tarefas)**: A task manager with laravel
     
 ---
 
