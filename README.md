@@ -30,7 +30,7 @@
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
 - Code:
-  - **[Task Manager](https://github.com/ferbarcante/crud-tarefas)**: A task manager with laravel
+  - **[Task Manager](https://github.com/ferbarcante/tarefas-crud)**: A task manager with laravel
     
 ---
 
