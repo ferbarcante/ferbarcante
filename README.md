@@ -21,7 +21,7 @@
 
 ### ꪆ୧  Studies:
 
-- Focusing on [kotlin](https://github.com/ferbarcante/aprendendo-kotlin) and [typescript](https://github.com/ferbarcante/aprendendo-ts)
+- Focusing on php
 
 ---
 
