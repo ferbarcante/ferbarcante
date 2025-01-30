@@ -29,14 +29,13 @@
   
 - Education:
   - **[Dev.to](https://dev.to/ferbarcante)**: Scientific divulgation
-- Code:
-  - **[Task Manager](https://github.com/ferbarcante/tarefas-crud)**: A task manager with laravel
+
     
 ---
 
 ### ꪆ୧  Other interests:
 
-Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, [Competitive Programming](https://github.com/ferbarcante/competitive-programming), Running, Calisthenics, Social Activism
+Art, Language learning, Philosophy, Literature, Formula 1, Mathematics, Running, Calisthenics, Social Activism
 
 ---
 
