@@ -1,6 +1,6 @@
 
 <h3 align="center">software developer ꒰ᐢ. .ᐢ꒱ </h3>
-<p align="center">java, js & php ・ fullstack development ・ devops  </p>
+<p align="center">java, js & C# ・ fullstack development ・ Angular, .Net & Spring  </p>
 <h3 align="center">    activity   </h3>
 
 <div align="center">  
